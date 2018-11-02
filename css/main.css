@@ -1,0 +1,83 @@
+*{
+padding :0;
+margin:0;
+}
+
+input {
+padding-left: 3px;
+height: 35px;
+}
+
+#authlog {
+   padding-top: 50px;
+   margin: 0 auto;
+   width: 30%;
+   background: none, !important;
+ }
+
+ #auth
+ {
+   background-color: #F5FFFA;
+   border: 1px solid black;
+   width: 70%;
+   padding: 10px;
+   margin: 10px auto;
+   opacity:0.85;
+   border-radius: 20px;
+   font-size: 15px;
+   margin-bottom: 20px;
+ }
+ #auth label
+ {
+  display: block;
+  width: 7em;
+  float: left;
+ }
+ 
+  #auth input
+ {
+  width: 19em;
+  padding-left: 5px;
+ }
+
+.addButtonWidh {
+  width: 19em;
+  margin-bottom: 10px;
+}
+.btnwidth {
+  width: 100%;
+  font-size: 12px;
+}
+
+ .cBox {
+  width:  25px;
+  height: 19px;
+}
+
+.tdContainer {
+  margin-top:  65px;
+}
+.fototov {
+  height: 145px;
+  width: : auto;
+}
+.tdHeight{
+  height: 120px;
+}
+.tdwidth{
+  width: 100%;
+}
+.thwidth {
+  width: 15%;
+}
+.posButton {
+  position: fixed; 
+  top: 15px; 
+  left: 15px; 
+}
+.success{
+  visibility: hidden;
+  position: fixed; 
+  top: 200px; 
+  right: 145px;   
+}
